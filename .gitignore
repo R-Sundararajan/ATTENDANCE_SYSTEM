@@ -1,0 +1,17 @@
+# 🔸 Virtual environment
+venv311/
+
+# 🔸 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+data/data_faces_from_camera/
+
+# 🔸 Logs / temp
+*.log
+*.tmp
+
+.idea/
+.env
