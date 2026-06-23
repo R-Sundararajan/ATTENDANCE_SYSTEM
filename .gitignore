@@ -8,6 +8,7 @@ __pycache__/
 *.pyd
 
 data/data_faces_from_camera/
+attendance.db
 
 # 🔸 Logs / temp
 *.log

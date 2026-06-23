@@ -283,7 +283,7 @@ class Face_Register:
                     logging.info("%-40s %s/img_face_%s.jpg", "Save into：",
                                  str(self.current_face_dir), str(self.ss_cnt) + ".jpg")
                 else:
-                    self.log_all["text"] = "Please do not out of range!"
+                    self.log_all["text"] = "Please do not go out of range!"
             else:
                 self.log_all["text"] = "No face in current frame!"
         else:
