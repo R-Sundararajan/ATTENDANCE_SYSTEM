@@ -125,8 +125,5 @@ Then open `http://127.0.0.1:5000` or use the Streamlit database page link.
 
 The repository includes `Details/day 1.png`, which can be placed after the Overview section if it represents the application UI or attendance output. The registered face images under `data/data_faces_from_camera/` should not be used as README screenshots unless the subjects have approved their use.
 
-Useful screenshots to add later would be the Streamlit home page, the registration camera window, the extraction page after generating CSV data, and the Flask attendance table.
+`Demo/` Contains Useful screenshots of the Streamlit home page, the registration camera window and the Flask attendance table.
 
-## Metrics and Analytics
-
-No validated performance metrics are currently documented in the repository.
