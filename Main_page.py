@@ -20,13 +20,13 @@ st.markdown(
     f"""
     <div style="display: flex; align-items: center;font-size:20px; margin-left: 110px; margin-top: 20px;">
 
-- 📸 Real-time webcam-based **Face Recognition**  
+- 📸 Real-time webcam-based **Multi-Face Recognition**  
 - 🧍 New user **Face Registration**  
-- 🧠 128D **Facial feature extraction** stored in CSV  
-- ✅ Automated **Attendance marking**  
-- 📊 Attendance logs stored in **SQLite database**  
+- 🧠 128-D **Facial feature extraction** stored in CSV  
+- ✅ Automated **Attendance System**  
+- 📊 Attendance Logs are Stored in **SQLite database**  
 - 🌐 Web interface built using **Streamlit**  
-- ⚙️ Uses **dlib wheel** prebuilt for Python 3.11 (included)
+- ⚙️ Uses **dlib Wheel** Built for Python 3.11
     </div>
     """,
     unsafe_allow_html=True
